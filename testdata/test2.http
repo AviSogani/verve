@@ -1,0 +1,5 @@
+# curl "http://localhost:8085/api/verve/accept?id=456&endpoint=http://localhost:8081"
+GET http://localhost:8085/api/verve/accept?id=456&endpoint=http://localhost:8081
+
+###
+
